@@ -1,8 +1,8 @@
 {
-  "name": "object-stream",
-  "version": "0.0.1",
+  "name": "@kiosked/object-stream",
+  "version": "0.1.0",
   "author": {
-    "name": "Nicolas Mercier"
+    "name": "Perry Mitchell <perry@kiosked.com>"
   },
   "description": "Simplified streams of objects",
   "keywords": [
@@ -21,8 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/extrabacon/object-stream"
+    "url": "http://github.com/Kiosked/object-stream"
   },
-  "homepage": "http://github.com/extrabacon/object-stream",
-  "bugs": "http://github.com/extrabacon/object-stream/issues"
+  "homepage": "http://github.com/Kiosked/object-stream"
 }
