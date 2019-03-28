@@ -4,6 +4,7 @@
   "author": {
     "name": "Perry Mitchell <perry@kiosked.com>"
   },
+  "main": "index.js",
   "description": "Simplified streams of objects",
   "keywords": [
     "stream",
